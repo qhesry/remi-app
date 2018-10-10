@@ -1,0 +1,15 @@
+{
+  "name": "remi-bot",
+  "version": "1.0.0",
+  "description": "Remi, a bot who remind you things.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "COUTURIER Tristan",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
